@@ -99,11 +99,6 @@ const Navbar = () => {
                                         <Link href="/contact">
                                             Contact
                                         </Link>
-                                        <div>
-                                            <Button className="mx-1 text-xs" variant="outline">Login</Button>
-                                            <Button className="mx-1 text-xs" variant="outline">Signup</Button>
-
-                                        </div>
 
                                     </div>
                                 </SheetDescription>
